@@ -1,0 +1,3 @@
+rootProject.name = 'AppleMusicPlayer'
+
+include ':app'
